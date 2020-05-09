@@ -1,0 +1,42 @@
+body {
+	background: url("img/fancyblack.jpg") fixed;
+}
+p
+{
+	color: white;
+	text-align: justify;
+	width: 1200px;
+	border: 1px solid black;
+	padding: 12px;
+	margin: auto;
+	overflow: auto;
+	/*word-wrap: break-word;*/
+}
+h3 {
+	color: white;
+	text-align: justify;
+	width: 1200px;
+	border: 1px solid black;
+	padding: 12px;
+	margin: auto;
+	font-size: 3em;
+}
+.important_paragraph {
+	font-size: 2em;
+}
+.flottant
+{
+	float: left;
+}
+.para2
+{
+	clear: left;
+	height: 110px;
+}
+h1
+{
+	background: rgb(35, 170, 217);
+	border: 6px rgb(24, 24, 130) groove;
+	border-radius: 20px;
+	box-shadow: 6px 6px 10px black;
+}
